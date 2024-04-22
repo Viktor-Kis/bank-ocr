@@ -17,9 +17,13 @@ Gathering feedback and insights for future development.
 
 # Notable Features
 File Input: Ability to upload files containing data for processing.
+
 Data Processing: Processing of uploaded data to extract relevant information.
+
 OCR Integration: Integration of Optical Character Recognition (OCR) for data extraction.
+
 User Story Selection: Functionality to select different user stories to demonstrate various scenarios.
+
 Account Display: Display of processed account data in a table.
 
 # Limitations
