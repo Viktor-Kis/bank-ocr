@@ -24,18 +24,28 @@ Account Display: Display of processed account data in a table.
 
 # Limitations
 The POC may not include all desired features and functionalities.
+
 User interface design and aesthetics may be basic and not fully polished.
+
 Error handling and edge cases may not be fully implemented.
+
 Performance optimizations and scalability considerations may be limited.
+
 Additional work is needed for implementing unit tests and test automation.
+
 Detailed system requirements and corresponding test scenarios are missing.
+
 Developer documentation, including code documentation and guidelines, is not available.
+
 Error handling mechanisms for handling unexpected failures and exceptions need improvement.
 
 # Improvement Opportunities
 User Authentication: Implementing user authentication features to secure access to the application and user data.
+
 Save Edited Data: Adding functionality to save edited data to persist changes made by users.
+
 Multilingual Interface: Enhancing the user experience by providing support for multiple languages in the interface.
+
 User Documentation: Creating comprehensive user documentation to guide users on how to use the application effectively.
 
 
