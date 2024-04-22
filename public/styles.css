@@ -1,0 +1,16 @@
+/* styles.css */
+
+.table-container {
+    margin-top: 20px;
+}
+
+.table-container table {
+    border-collapse: collapse;
+    border: 1px solid rgb(163, 163, 163);
+}
+
+.table-container th,
+.table-container td {
+    border: 1px solid rgb(163, 163, 163);
+    padding: 8px;
+}
