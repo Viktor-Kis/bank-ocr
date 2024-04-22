@@ -27,7 +27,7 @@ User Story Selection: Functionality to select different user stories to demonstr
 Account Display: Display of processed account data in a table.
 
 # Limitations
-The POC may not include all desired features and functionalities.
+The POC may not include all desired features and functionalities: the correction algorithm cannot yet handle the situation where all the digits have been read correctly but the checksum is wrong.
 
 User interface design and aesthetics may be basic and not fully polished.
 
